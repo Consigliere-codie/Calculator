@@ -1,2 +1,4 @@
-# Calculator
-A basic calculator with add, subtract, multiply, and divide functions.
+# Calculator  
+A simple calculator built with HTML, CSS, and JavaScript.  
+
+Supports: +, −, ×, ÷  
